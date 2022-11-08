@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    color: blueviolet;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.card{
+    border: solid 3px black;
+    border-radius: 10px;
+
+}
+
+
+
